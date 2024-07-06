@@ -1245,8 +1245,8 @@ SPEC CHECKSUMS:
   ReactTestApp-Resources: da77347b3f02b5d79ba3fecb3ad328b2f6a7ef4d
   SocketRocket: f32cd54efbe0f095c4d7594881e52619cfe80b17
   sparkfabrik-react-native-idfa-aaid: ed2131b682314df45e829a08f7a5f4d67af9b8c1
-  Yoga: e5b887426cee15d2a326bdd34afc0282fc0486ad
+  Yoga: 2a16e58450c48e110211dae1159fb114bbcdcfc0
 
 PODFILE CHECKSUM: 53d35c75527231cb41d4e5886ef0b702650b7a4c
 
-COCOAPODS: 1.15.2
+COCOAPODS: 1.11.3
