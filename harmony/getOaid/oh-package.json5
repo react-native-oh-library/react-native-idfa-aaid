@@ -1,0 +1,10 @@
+{
+  "name": "@react-native-oh-tpl/react-native-idfa-aaid",
+  "version": "1.2.0-0.0.1",
+  "description": "",
+  "main": "Index.ets",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@rnoh/react-native-openharmony": 'file:../react_native_openharmony',
+  }
+}

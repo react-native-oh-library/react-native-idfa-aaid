@@ -1,4 +1,4 @@
-import { NativeModules } from 'react-native';
+import { TurboModuleRegistry } from 'react-native';
 
 export type AdvertisingInfoResponse = {
   id: string | null;
@@ -11,7 +11,7 @@ type ReactNativeIdfaAaidType = {
     check: boolean
   ): Promise<AdvertisingInfoResponse>;
 };
-
-const { ReactNativeIdfaAaid } = NativeModules;
+const ReactNativeIdfaAaid = TurboModuleRegistry.get('RTNGetOaidNativeModule');
 
 export default ReactNativeIdfaAaid as ReactNativeIdfaAaidType;
+
