@@ -6,17 +6,13 @@
   "source": "src/index",
   "files": [
     "src",
-    "android",
-    "ios",
     "harmony",
     "react-native-idfa-aaid.podspec",
-    "!android/build",
-    "!ios/build",
     "!**/__tests__",
     "!**/__fixtures__",
     "!**/__mocks__"
   ],
-  "keywords": ["react-native", "ios", "android", "harmony"],
+  "keywords": ["react-native", "harmony"],
   "repository": {
     "type": "git",
     "url": "git://github.com/react-native-oh-library/react-native-idfa-aaid.git" 
@@ -43,9 +39,6 @@
   "codegenConfig": {
     "name": "RTNGetOaidSpec",
     "type": "modules",
-    "jsSrcsDir": "src",
-    "android": {
-      "javaPackageName": "com.react-native-idfa-aaid"
-    }
+    "jsSrcsDir": "src"
   }
 }
