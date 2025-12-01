@@ -1,17 +1,13 @@
-# react-native-idfa-aaid
+#  迁移声明
 
-本项目基于 [react-native-idfa-aaid](https://github.com/sparkfabrik/sparkfabrik-react-native-idfa-aaid)
+- 本仓库已迁移至 GitCode：[OpenHarmony-SIG/rntpc_react-native-idfa-aaid](https://gitcode.com/openharmony-sig/rntpc_react-native-idfa-aaid)。
+- 包名已更改为 `@react-native-ohos/react-native-idfa-aaid`，支持直接从 npm 下载。
+- 更多详情请查阅新仓库的 README 文件。
+- 本仓库旧版本的文档已归档：[链接](/doc/zh-cn.md)
 
-## 文档地址 / Documentation URL 
+# Migration Announcement
 
-[中文 / Chinese](https://gitee.com/react-native-oh-library/usage-docs/blob/master/zh-cn/react-native-idfa-aaid.md)
-
-## Codegen
-
-该库已接入 codegen，具体请查阅文档。
-
-The library has been integrated with codegen. Please refer to the documentation for details.
-
-## 请悉知 / Acknowledgements
-
-本项目基于 [The MIT License (MIT)](https://github.com/sparkfabrik/sparkfabrik-react-native-idfa-aaid/blob/master/LICENSE) ，请自由地享受和参与开源。
+- This repository has been migrated to GitCode：[OpenHarmony-SIG/rntpc_react-native-idfa-aaid](https://gitcode.com/openharmony-sig/rntpc_react-native-idfa-aaid)       
+- The package name has been changed to `@react-native-ohos/react-native-idfa-aaid` and is now available for direct download from npm.
+- For more details, please refer to the README in the new repository.
+- Archived documentation for versions in this repository can be found here: [Link](/doc/en.md)
